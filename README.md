@@ -1,4 +1,4 @@
-###Hi, I am Sagar Kurada 👋
+Hi, I am Sagar Kurada 👋
 
 🔭 Love to work at intersection of consumer data & machine learning to build and deploy ML systems that help customers.
 
