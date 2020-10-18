@@ -1,16 +1,15 @@
-### Hi, I am Sagar Kurada, a data enthusiaist !
+###Hi, I am Sagar Kurada 👋
 
-<!--
-**SagarKurada/SagarKurada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Love to work at intersection of consumer data & machine learning to build and deploy ML systems that help customers.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning how to make machine learning work in the real world. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀🤖 The Dream 🤖✈️
+Help manifest approachable fintech technologies to everyone in all forms of life, self-organizing transportation with optimized supply chains. 
+
+👯 I’m looking to collaborate in building consensus on models’ implementation for developing optimal methodologies.
+ 
+⚡ Fun fact:
+Published a python library Data Butler in PyPi, which is used for automating data profiling and data cataloging
+
+
