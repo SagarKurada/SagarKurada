@@ -1,11 +1,12 @@
 ## Hi, I am Sagar Kurada 👋
 
-🔭  I love to work at intersection of consumer data & machine learning to build and deploy ML systems that help customers.
+🔭  Love to work at intersection of consumer data & machine learning to build and deploy ML systems that help customers.
 
-🌱  I’m currently learning how to make machine learning work in the real world. 
+🌱  Currently learning how to make machine learning work in the real world. 
 
+👯  Looking to collaborate in building consensus on models’ implementation for developing optimal methodologies.
 
-👯  I’m looking to collaborate in building consensus on models’ implementation for developing optimal methodologies.
+🎯  Partnered with industry in multiple projects, leveraging NLP & ML to generate actionable insights and product ideas for stakeholders
 
 
 ### 🚀🤖 The Dream 🤖✈️
