@@ -12,6 +12,6 @@ Help manifest approachable fintech technologies to everyone in all forms of life
  
 ### ⚡ Fun fact:
 
-Published a python library ["DataButler"](https://pypi.org/project/data-butler/)in PyPi, which is used for automating data profiling and data cataloging
+Published a python library ["DataButler"](https://pypi.org/project/data-butler/)in PyPi, used for automating data profiling and data cataloging process
 
 
