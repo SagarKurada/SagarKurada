@@ -6,7 +6,7 @@
 
 👯  Looking to collaborate in building consensus on models’ implementation for developing optimal methodologies.
 
-🎯  Partnered with industry in multiple projects, leveraging NLP & ML to generate actionable insights and product ideas for stakeholders
+🎯  Partnered with industry in multiple projects, leveraging NLP & ML to generate actionable insights and product ideas for stakeholders.
 
 
 ### 🚀🤖 The Dream 🤖✈️
