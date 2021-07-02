@@ -11,7 +11,7 @@
 
 ### 🚀🤖 The Dream 🤖✈️
 
-Help manifest approachable fintech technologies to everyone in all forms of life, self-organizing transportation with optimized supply chains. 
+Help manifest approachable  technologies to everyone in all forms of life, self-organizing transportation with optimized supply chains. 
 
  
 ### ⚡ Fun fact:
